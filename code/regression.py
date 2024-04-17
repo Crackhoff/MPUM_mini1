@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import params
-from helper import *
+from MPUM_mini1.code.helper import *
 
 class LinearRegression:
     def __init__(self):
