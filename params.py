@@ -1,0 +1,10 @@
+#this file contains the parameters used in the project
+
+ITERATIONS = 1200
+BATCH_SIZE = 10
+ETHA = 0.01
+LAMBDA = 0.1
+EPSILON = 0.00001
+FEATURES_TO_REMOVE = None
+DELTA = 10
+TEST_LAMBDAS = [0.00000001, 0.5, 1, 5, 10, 100, 1000, 10000, 100000]
